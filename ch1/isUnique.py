@@ -1,4 +1,4 @@
-def unique(str):
+def isUnique(str):
     if len(str) > 128:
        return False
     
